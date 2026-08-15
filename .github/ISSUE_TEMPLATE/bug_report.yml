@@ -17,7 +17,3 @@ body:
   id: environment
   attributes:
     label: Environment
-    options: [local, qa, production]
-
-
-    
