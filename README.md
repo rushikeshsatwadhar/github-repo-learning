@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Git & GitHub Learning Repository
 
 A hands-on repository for learning and practicing **Git and GitHub** concepts, commands, workflows, and best practices.
